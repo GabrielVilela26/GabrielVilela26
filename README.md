@@ -24,13 +24,13 @@ My emphasis is on developing interactive interfaces that respond efficiently to 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
 
 ## About me / Sobre mim :
-<strong>PORTUGUÊS:</strong> Gosto de explorar novos mundos, e assim, adquirir e compartilhar conhecimento.
+<strong>PORTUGUÊS:</strong> Gosto de explorar novos mundos, e assim, adquirir e compartilhar conhecimentos.
 Gosto de desenvolver interfaces interativas, web pages, etc...
 
 🌱 Acredito que a persistencia e foco levam ao aperfeiçoamento.
 Estou disposto a criar novas amizades e me conectar para criarmos algo incrível juntos! 🤝
 
-<strong>ENGLISH:</strong> I like exploring new worlds, and thus acquiring and sharing knowledge.
+<strong>ENGLISH:</strong> I like exploring new worlds, and thus acquiring and sharing knowledges.
 I like developing interactive interfaces, web pages, etc...
 
 🌱 I believe that persistence and focus lead to improvement.
