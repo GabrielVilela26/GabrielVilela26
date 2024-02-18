@@ -17,7 +17,6 @@ desenvolvimento full stack. Tenho predileção por explorar novos horizontes, ad
 
 <strong>ENGLISH:</strong> I'm a growing junior programmer, passionate about programming and a technology enthusiast. I seek daily to expand my knowledge in the area of ​​full stack development. I have a predilection for exploring new horizons, acquiring insights and sharing knowledge.
 
-
 My emphasis is on developing interactive interfaces that respond efficiently to user interactions, web pages and 2D games. I am committed to improving my skills, constantly seeking new challenges and contributing to the dynamic field of programming.
 
 ## 🚀 Currently, I am honing my skills in / 🚀 Atualmente, estou aprimorando minhas habilidades em:
