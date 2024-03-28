@@ -10,12 +10,11 @@
 </div>
 
 <br>
-<strong>PORTUGUÊS:</strong> Sou um programador júnior em processo de crescimento, apaixonado por programação e um entusiasta da tecnologia. Busco diariamente ampliar meus conhecimentos na área de       
-desenvolvimento full stack. Tenho predileção por explorar novos horizontes, adquirir insights e compartilhar conhecimento. 
+<strong>PORTUGUÊS:</strong> Sou um programador júnior em processo de crescimento, apaixonado por programação e um entusiasta da tecnologia. Busco diariamente ampliar meus conhecimentos na área de desenvolvimento full stack. Tenho predileção por explorar novos horizontes, adquirir experiencias e compartilhar conhecimentos. 
 
 <br>Minha ênfase está em desenvolver interfaces interativas que respondem de maneira eficiente às interações do usuário, páginas web e jogos 2D. Estou comprometido em aprimorar minhas habilidades, constantemente em busca de novos desafios e contribuindo para o dinâmico campo da programação.
 
-<strong>ENGLISH:</strong> I'm a growing junior programmer, passionate about programming and a technology enthusiast. I seek daily to expand my knowledge in the area of ​​full stack development. I have a predilection for exploring new horizons, acquiring insights and sharing knowledge.
+<strong>ENGLISH:</strong> I'm a growing junior programmer, passionate about programming and a technology enthusiast. I seek daily to expand my knowledge in the area of ​​full stack development. I have a predilection for exploring new horizons, acquire experiences and share knowledge.
 
 My emphasis is on developing interactive interfaces that respond efficiently to user interactions, web pages and 2D games. I am committed to improving my skills, constantly seeking new challenges and contributing to the dynamic field of programming.
 
